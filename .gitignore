@@ -110,3 +110,4 @@ test.ipynb
 .lisapro/*.yml
 
 .DS_Store
+.aider*
